@@ -17,7 +17,7 @@ A web app to plan you work day.
 Click Link to open App
 
 ## Link
-
+https://azrael-savage.github.io/Week-5-Planner/
 
 ## Usage
 Once page loads you can type into the time blocks and begin typing to enter an event. To save click the save icon on the right to save.
