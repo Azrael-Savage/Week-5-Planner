@@ -1,17 +1,29 @@
-# Week-5-Planner
-Planner
+# Work Day Planner
+
+## Description
+A web app to plan you work day.
+
+## Table of Contents
+- [Installation](#installation)
+- [Link](#link)
+- [Usage](#usage)
+- [License](#license)
+- [Questions](#questions)
+
+## Installation
+Click Link to open App
+
+##Link
 
 
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future
-WHEN I click into a time block
-THEN I can enter an event
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
+## Usage
+Once page loads you can type into the time blocks and begin typing to enter an event. To save click the save icon on the right to save.
+
+## License
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+This project is covered under the MIT license.
+
+## Questions
+For additional questions, you can reach me on GitHub at [Azrael-Savage](https://github.com/Azrael-Savage)
+or via email at thewisegoddessathena@gmail.com.
